@@ -1,3 +1,4 @@
 # Grading-Classification
-This is a machine learning project where I used various algorithms to bin grades into pass / fail, letter grades, and used regression to try and predict exact grades
+In this machine learning project, I was tasked with classifying student grades using both classification and regression algorithms. I used multiple models for each task to compare their performance and understand why certain models performed better than others. Using the scikit-learn library in Python, I applied these models to the dataset provided in a CSV file.
+Throughout this process, I learned the importance of data cleaning, especially when training machine learning models. I also gained experience tuning model parameters such as the train/test split to improve accuracy, recall, and precision in different ways. This project highlights my analytical reasoning and adaptability as I interpreted the behavior of various models and the rationale behind their performance.
 
